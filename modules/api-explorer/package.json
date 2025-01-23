@@ -1,6 +1,6 @@
 {
   "name": "@phenyl/api-explorer",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "description": "Automatically renders API explorer pages like swagger",
   "repository": "https://github.com/phenyl-js/phenyl/tree/master/modules/phenyl-api-explorer",
   "license": "Apache-2.0",
@@ -25,17 +25,17 @@
     "type-check": "upbin tsc --noEmit"
   },
   "dependencies": {
-    "@phenyl/api-explorer-client": "^4.1.0",
+    "@phenyl/api-explorer-client": "^4.2.0",
     "ejs": "^3.1.6"
   },
   "devDependencies": {
-    "@phenyl/http-client": "^4.1.0",
-    "@phenyl/http-server": "^4.1.0",
+    "@phenyl/http-client": "^4.2.0",
+    "@phenyl/http-server": "^4.2.0",
     "@phenyl/interfaces": "^4.1.0",
-    "@phenyl/lambda-adapter": "^4.1.0",
-    "@phenyl/memory-db": "^4.1.0",
+    "@phenyl/lambda-adapter": "^4.2.0",
+    "@phenyl/memory-db": "^4.2.0",
     "@phenyl/rest-api": "^4.1.0",
-    "@phenyl/standards": "^4.1.0",
+    "@phenyl/standards": "^4.2.0",
     "@types/ejs": "^3.0.5",
     "nodemon": "^2.0.7",
     "power-crypt": "^0.2.2",

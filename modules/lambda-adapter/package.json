@@ -1,6 +1,6 @@
 {
   "name": "@phenyl/lambda-adapter",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "description": "Adapter for AWS lambda",
   "repository": "phenyl-js/phenyl",
   "license": "Apache-2.0",
@@ -24,7 +24,7 @@
     "watch": "upbin tsc -p tsconfig.build.json --watch"
   },
   "dependencies": {
-    "@phenyl/http-rules": "^4.1.0",
+    "@phenyl/http-rules": "^4.2.0",
     "@phenyl/interfaces": "^4.1.0"
   },
   "devDependencies": {
